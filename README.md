@@ -7,8 +7,8 @@
 This project is a part of my MSc Research Project in Data Analytics at the National College of Ireland. The goal of this research is to predict the prices of residential properties in Dublin using data from the Property Services Regulatory Authority (PSRA) spanning from 2010 to 2021. The study explores the effectiveness of various machine learning models, including ensemble learning techniques, to identify the best model for predicting property prices.
 
 ## Data Source 
-The data has been sourced from the Smart Dublin Open Data Repository. The data collected
-## Methodology
+The data has been sourced from the Smart Dublin Open Data Repository. https://data.smartdublin.ie/dataset/dublin-residential-property-price-register
+
 
 ### Data Collection
 
